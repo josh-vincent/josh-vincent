@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <h4 align="center"><b>"🌆 live in Melbourne Australia "</b></h4>
+  <h4 align="center"><b>"🌆 Melbourne Australia "</b></h4>
 </p>
 
 <p align="center">
