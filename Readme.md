@@ -79,34 +79,17 @@ Always looking at new opportunities to Grow, Improve & Adapt.
 <br>
 <br>
 
-<!--
-<details>
-  <summary>:zap: Github Stats</summary>
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=josh-vincent&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
-</p>
-<br>
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josh-vincent&show_icons=true&hide_border=true&theme=radical">
-</p>
-</details> -->
-
-
-### :zap: Github Stats
-
-
 <!-- stats
-
 <br>
-
 ### :zap: Recent Github Activity
-
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-<br>
-
 ### 📊 &nbsp; STATS
+
+![Joshs's GitHub stats](https://github-readme-stats.vercel.app/api?username=josh-vincent&show_icons=true&count_private=true)]
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josh-vincent&show_icons=true&hide_border=true&theme=radical">
 
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
 
@@ -117,8 +100,6 @@ Always looking at new opportunities to Grow, Improve & Adapt.
 
 
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
-
-
 <br>
 
 <div align="center">
