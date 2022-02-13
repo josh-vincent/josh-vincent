@@ -23,7 +23,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### Currently a Cloud Engineer 
+### Currently a Cloud Engineer
 - 🔭 I’m currently working on a few side projects :grin:
 - 🌱 I’m currently learning IaC.
 
@@ -35,29 +35,28 @@
 
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 
-- 🥅 2022 Goals: 
+- 🥅 2022 Goals:
   - Contribute to Open Source projects
   - Get 1% better each day.
   - Learn something new Everyday.
   - Write about new interesting & helpful tips.
-  
+
 
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 
 ### About me:
-7 years+ experience in technology, have worked my way up through the customer support channels. 
-Service desk, Desktop Support, Windows Admin, Platforms, Cloud Operations & Cloud engineering. 
+7 years+ experience in technology, have worked my way up through the customer support channels.
+Service desk, Desktop Support, Windows Admin, Platforms, Cloud Operations & Cloud engineering.
 
 During the pandemic years 2019-2021 in Melbourne locked down.
-Used this time to focus on learning new technologies AWS, React, React-native, Angular, Terraform and Web3.
+Used this time to focus on learning new technologies AWS, Amplify, React, React-native, Angular, Terraform and Web3.
+Created some side projects using the above stacks, and assisted in pushing one into production at work.
 
-Try to keep up with the Crypto sphere which moves incredibly fast. 
-
+Try to keep up with the Crypto sphere which moves incredibly fast.
 Love learning new and exciting technologies, automating repetitive tasks to allow time for learning.
+Always looking at new opportunities to Grow, Improve & Adapt.
 
-Always looking at new opportunities to grow, improve & adapt.
-
-### Languages and Tools: 
+### Languages and Tools:
 <img align="left" alt="AWS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Terraform" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />
@@ -101,7 +100,7 @@ Always looking at new opportunities to grow, improve & adapt.
 <br>
 
 ### :zap: Recent Github Activity
-  
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
@@ -114,7 +113,7 @@ Always looking at new opportunities to grow, improve & adapt.
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
 
 <!--START_SECTION_DAILY_COMMIT:readme-info-->
-**I'm an early 🐤** 
+**I'm an early 🐤**
 
 
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
