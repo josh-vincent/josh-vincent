@@ -56,6 +56,13 @@ Try to keep up with the Crypto sphere which moves incredibly fast.
 Love learning new and exciting technologies, automating repetitive tasks to allow time for learning.
 Always looking at new opportunities to Grow, Improve & Adapt.
 
+### Current Side Project's Stack
+
+- AWS
+- Amplify - GraphQL, Lambda, DynamoDB, Cognito
+- Angular - TypeScript
+- Terraform
+
 ### Languages and Tools:
 <img align="left" alt="AWS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -101,9 +108,6 @@ Always looking at new opportunities to Grow, Improve & Adapt.
 
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
 <br>
-
-<div align="center">
-</div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
 
 <!--[website]: -->
 [twitter]: https://twitter.com/jvinnie
